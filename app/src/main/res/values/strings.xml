@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Figuras Geometricas</string>
+    <string name="cuadro">Cuadro</string>
+    <string name="triangulo">Triángulo</string>
+    <string name="circulo">Círculo</string>
+    <string name="cubo">Cubo</string>
+    <string name="calc">Calcular</string>
+</resources>
